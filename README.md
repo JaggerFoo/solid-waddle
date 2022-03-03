@@ -53,4 +53,4 @@ In the Ballot2b.sol version, when the voter is submitted to giveRightToVote the 
 
 #### Screenshots
 
-The screenshots for the three versions of the Ballot contract are in the screenshots directories Ballot, Ballot2 and Ballot2b.
+The screenshots for the three versions of the Ballot contract are in the screenshots directories Ballot-original, Ballot2-update and Ballot2b-update.
